@@ -14,5 +14,5 @@
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="Vue" src="https://img.shields.io/badge/-Vue-42b983?style=flat&logo=Vue.js&logoColor=white" />
- 
+  <img alt="Nuxt" src=" https://img.shields.io/badge/-Nuxt-00C58E?style=flat&logo=Nuxt.js&logoColor=white" />
 </p>
