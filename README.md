@@ -18,3 +18,7 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="qiankun" src="https://img.shields.io/badge/-qiankun-D7AC4A?style=flat&Color=white" />
 </p>
+
+
+### 🤝🏻 &nbsp;Connect with Me
+<a href="mailto:1281873549@qq.com"><img alt="Email" src="https://img.shields.io/badge/Email-1281873549@qq.com-blue?style=flat-square&logo=gmail"></a>
